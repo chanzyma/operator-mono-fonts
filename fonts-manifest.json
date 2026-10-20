@@ -1,0 +1,226 @@
+[
+  {
+    "file": "fonts/OperatorMono/OperatorMono-Bold.otf",
+    "postscriptName": "OperatorMono-Bold",
+    "family": "Operator Mono",
+    "weight": 700,
+    "sha256": "b0273e91c8659fe2fb42db315b56c465191b2eb09d5c2f448b9c1c9e28b57b32"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-BoldItalic.otf",
+    "postscriptName": "OperatorMono-BoldItalic",
+    "family": "Operator Mono",
+    "weight": 700,
+    "sha256": "4b4caabcfeca8e0723c1e7c92b1b2def9950cfb4dfa83914c643ff5e91017705"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-Book.otf",
+    "postscriptName": "OperatorMono-Book",
+    "family": "Operator Mono",
+    "weight": 400,
+    "sha256": "4e88086bf6baf1dc1006781285723119918a2f197d32dc0bc80df450ce135300"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-BookItalic.otf",
+    "postscriptName": "OperatorMono-BookItalic",
+    "family": "Operator Mono",
+    "weight": 400,
+    "sha256": "a793cb668669f438ef4fda3d25c719f72dab07cbef211eaff7bcf7ad0267b7f4"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-Light.otf",
+    "postscriptName": "OperatorMono-Light",
+    "family": "Operator Mono",
+    "weight": 300,
+    "sha256": "eab5b7922f5615ab4482a81e877b306f9bd88c3a2d80a3ced5f89dbdb012b93b"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-LightItalic.otf",
+    "postscriptName": "OperatorMono-LightItalic",
+    "family": "Operator Mono",
+    "weight": 300,
+    "sha256": "1b035d3c70b69f50d8f0041a3638c928e5f55f10063cf2383f3f74dbbc103604"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-Medium.otf",
+    "postscriptName": "OperatorMono-Medium",
+    "family": "Operator Mono",
+    "weight": 500,
+    "sha256": "3a6a0a27f744524edf14fc7d16ee73ac172d662d11598444e11df87eb62a2c18"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-MediumItalic.otf",
+    "postscriptName": "OperatorMono-MediumItalic",
+    "family": "Operator Mono",
+    "weight": 500,
+    "sha256": "3fbe6d69d662b6edca771c25c1a92efc957be755b96b789360661c7d2418a50f"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-XLight.otf",
+    "postscriptName": "OperatorMono-XLight",
+    "family": "Operator Mono",
+    "weight": 200,
+    "sha256": "79a4be565c598488774b2b1e9d5820d3ad19351033e64a62e1b8f8cd3cd599af"
+  },
+  {
+    "file": "fonts/OperatorMono/OperatorMono-XLightItalic.otf",
+    "postscriptName": "OperatorMono-XLightItalic",
+    "family": "Operator Mono",
+    "weight": 200,
+    "sha256": "015b3d6e240a540aca8d033d23dddf6a5deb72414e1b136db5fdcf589ed16753"
+  },
+  {
+    "file": "fonts/OperatorMonoLig/OperatorMonoLig-Book.otf",
+    "postscriptName": "OperatorMonoLig-Book",
+    "family": "Operator Mono Lig",
+    "weight": 400,
+    "sha256": "1fa79feaf96b1efb2d5435e9b210d28caac652834adf8009d820e9604bd0992d"
+  },
+  {
+    "file": "fonts/OperatorMonoLig/OperatorMonoLig-BookItalic.otf",
+    "postscriptName": "OperatorMonoLig-BookItalic",
+    "family": "Operator Mono Lig",
+    "weight": 400,
+    "sha256": "22cbe337b897d71d703fda6f54455f3f99904a0cfb84336a288a2ea7795f4d87"
+  },
+  {
+    "file": "fonts/OperatorMonoLig/OperatorMonoLig-Light.otf",
+    "postscriptName": "OperatorMonoLig-Light",
+    "family": "Operator Mono Lig",
+    "weight": 300,
+    "sha256": "81f14daa5b05485e9e7b9c50985e54f49e0630f800e668334a5364bb63d17c83"
+  },
+  {
+    "file": "fonts/OperatorMonoLig/OperatorMonoLig-LightItalic.otf",
+    "postscriptName": "OperatorMonoLig-LightItalic",
+    "family": "Operator Mono Lig",
+    "weight": 300,
+    "sha256": "bc3be17c24a8a8558a34112eecb857918c29d5052d601b7f63d7b2db87003d84"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-Bold.ttf",
+    "postscriptName": "OperatorMonoNFM-Bold",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 700,
+    "sha256": "24ef2bc31b2804c4d01958479170aa67ea9931c9945a6bb487bd2987f2b7982a"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-BoldItalic.ttf",
+    "postscriptName": "OperatorMonoNFM-BoldItalic",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 700,
+    "sha256": "cb1e7ed39f9fe1aadd4ed8c6ce0cf55902679735e5712f1fa5e34e8e0542dcb1"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-ExtraLight.ttf",
+    "postscriptName": "OperatorMonoNFM-ExtraLight",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 200,
+    "sha256": "43f4defebd040108efff50fc6c875706c1169e39466a0be35c8a638a39441da4"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-ExtraLightItalic.ttf",
+    "postscriptName": "OperatorMonoNFM-ExtraLightItalic",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 200,
+    "sha256": "e8e2f92deceafab966cc42f20b2c98f1141e3676192691d78c9c5c54b03cdfe4"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-Italic.ttf",
+    "postscriptName": "OperatorMonoNFM-Italic",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 400,
+    "sha256": "3e4a0638999b95de3923cf9b59301a62ad8330093caed446574527f2872ec175"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-Light.ttf",
+    "postscriptName": "OperatorMonoNFM-Light",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 300,
+    "sha256": "143bcb8dcff84c21afc5a901b6683594be9f1822e9ffc1cf33d5137289769703"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-LightItalic.ttf",
+    "postscriptName": "OperatorMonoNFM-LightItalic",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 300,
+    "sha256": "d889ae34303bb1efaf30be8a2490b01886bf4bf23f6af0c3b087dc8d0dc7b527"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-Medium.ttf",
+    "postscriptName": "OperatorMonoNFM-Medium",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 500,
+    "sha256": "e8a5714c853c30d9b30e86d9ccb00629888c425335802d3d5ac183ce42764601"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-MediumItalic.ttf",
+    "postscriptName": "OperatorMonoNFM-MediumItalic",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 500,
+    "sha256": "5b8d9043889aa4d647ca51327f52fe34e1d33ae2fb1ee4bc44e651d2aadcbec0"
+  },
+  {
+    "file": "fonts/OperatorMonoNF/OperatorMonoNerdFontMono-Regular.ttf",
+    "postscriptName": "OperatorMonoNFM",
+    "family": "OperatorMono Nerd Font Mono",
+    "weight": 400,
+    "sha256": "07e067499f0add5dde7eb1af248549ff41229588911ad70cdee873a6dd66b91b"
+  },
+  {
+    "file": "fonts/OperatorMonoSSm/OperatorMonoSSm-Bold.otf",
+    "postscriptName": "OperatorMonoSSm-Bold",
+    "family": "Operator Mono SSm",
+    "weight": 700,
+    "sha256": "9762fcd131f345a6911267165918f8b8deffdf62ebd9c3171714f94510a376b7"
+  },
+  {
+    "file": "fonts/OperatorMonoSSm/OperatorMonoSSm-BoldItalic.otf",
+    "postscriptName": "OperatorMonoSSm-BoldItalic",
+    "family": "Operator Mono SSm",
+    "weight": 700,
+    "sha256": "15f981271b1ea2191fa48848852de73afc2265a031c8c3e4fd4451b30f9c9c1e"
+  },
+  {
+    "file": "fonts/OperatorMonoSSm/OperatorMonoSSm-Book.otf",
+    "postscriptName": "OperatorMonoSSm-Book",
+    "family": "Operator Mono SSm",
+    "weight": 400,
+    "sha256": "837e1f9aed7191672457e9be35b44ecde46c76a3b83a88ef6bd10ed7b306d057"
+  },
+  {
+    "file": "fonts/OperatorMonoSSm/OperatorMonoSSm-BookItalic.otf",
+    "postscriptName": "OperatorMonoSSm-BookItalic",
+    "family": "Operator Mono SSm",
+    "weight": 400,
+    "sha256": "e55eba7386ad404ec5ece4e8ea2ec8a4ac27c50c280f200aa06fb7e23b8be58e"
+  },
+  {
+    "file": "fonts/OperatorMonoSSm/OperatorMonoSSm-Light.otf",
+    "postscriptName": "OperatorMonoSSm-Light",
+    "family": "Operator Mono SSm",
+    "weight": 300,
+    "sha256": "3cf3104780da4e9bc5ffa9a83c353d877e34d531f8b6fb03c3ee3ed9ade7750b"
+  },
+  {
+    "file": "fonts/OperatorMonoSSm/OperatorMonoSSm-LightItalic.otf",
+    "postscriptName": "OperatorMonoSSm-LightItalic",
+    "family": "Operator Mono SSm",
+    "weight": 300,
+    "sha256": "ca8a600b6ee60c468c7ad3fc737b81d494d4558ec0ba92ce35e5618393395e05"
+  },
+  {
+    "file": "fonts/OperatorMonoSSm/OperatorMonoSSm-Medium.otf",
+    "postscriptName": "OperatorMonoSSm-Medium",
+    "family": "Operator Mono SSm",
+    "weight": 500,
+    "sha256": "0a134b03f0d06cab3b037534da8027d8e67740bd619f1f1481b4b6d6d215cbe2"
+  },
+  {
+    "file": "fonts/OperatorMonoSSm/OperatorMonoSSm-MediumItalic.otf",
+    "postscriptName": "OperatorMonoSSm-MediumItalic",
+    "family": "Operator Mono SSm",
+    "weight": 500,
+    "sha256": "96e1fee46a779dfaac497897de8bb1a80bf63aeee514a058c9861ab6cb9082be"
+  }
+]
